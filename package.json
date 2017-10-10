@@ -1,0 +1,24 @@
+{
+  "name": "git-avatar",
+  "version": "1.0.0",
+  "description": "## Problem Statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pythomike/github-avatar-downloader.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/pythomike/github-avatar-downloader/issues"
+  },
+  "homepage": "https://github.com/pythomike/github-avatar-downloader#readme"
+}

@@ -10,5 +10,3 @@ This program should be executed from the command line, in the following manner:
 
 `node download_avatars.js jquery jquery` where the first argument is the repo owner, and the second is the repo name.
 
-
-Darmok and Jalad at Tanagra
